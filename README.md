@@ -1,6 +1,3 @@
-
-# PUTRI NUR SYARFA - Data Analyst
-
 # Hi, I'm Putri! 👋
 
 
